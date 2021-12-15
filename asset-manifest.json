@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Testb24/trav_search.git/static/css/main.e3bebdf5.chunk.css",
-    "main.js": "/Testb24/trav_search.git/static/js/main.8c64e8cc.chunk.js",
-    "main.js.map": "/Testb24/trav_search.git/static/js/main.8c64e8cc.chunk.js.map",
-    "runtime-main.js": "/Testb24/trav_search.git/static/js/runtime-main.9d1be193.js",
-    "runtime-main.js.map": "/Testb24/trav_search.git/static/js/runtime-main.9d1be193.js.map",
-    "static/js/2.ce517b38.chunk.js": "/Testb24/trav_search.git/static/js/2.ce517b38.chunk.js",
-    "static/js/2.ce517b38.chunk.js.map": "/Testb24/trav_search.git/static/js/2.ce517b38.chunk.js.map",
-    "index.html": "/Testb24/trav_search.git/index.html",
-    "static/css/main.e3bebdf5.chunk.css.map": "/Testb24/trav_search.git/static/css/main.e3bebdf5.chunk.css.map",
-    "static/js/2.ce517b38.chunk.js.LICENSE.txt": "/Testb24/trav_search.git/static/js/2.ce517b38.chunk.js.LICENSE.txt"
+    "main.css": "/trav_search/static/css/main.e3bebdf5.chunk.css",
+    "main.js": "/trav_search/static/js/main.8c64e8cc.chunk.js",
+    "main.js.map": "/trav_search/static/js/main.8c64e8cc.chunk.js.map",
+    "runtime-main.js": "/trav_search/static/js/runtime-main.f399467a.js",
+    "runtime-main.js.map": "/trav_search/static/js/runtime-main.f399467a.js.map",
+    "static/js/2.8e0f748b.chunk.js": "/trav_search/static/js/2.8e0f748b.chunk.js",
+    "static/js/2.8e0f748b.chunk.js.map": "/trav_search/static/js/2.8e0f748b.chunk.js.map",
+    "index.html": "/trav_search/index.html",
+    "static/css/main.e3bebdf5.chunk.css.map": "/trav_search/static/css/main.e3bebdf5.chunk.css.map",
+    "static/js/2.8e0f748b.chunk.js.LICENSE.txt": "/trav_search/static/js/2.8e0f748b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.9d1be193.js",
-    "static/js/2.ce517b38.chunk.js",
+    "static/js/runtime-main.f399467a.js",
+    "static/js/2.8e0f748b.chunk.js",
     "static/css/main.e3bebdf5.chunk.css",
     "static/js/main.8c64e8cc.chunk.js"
   ]
